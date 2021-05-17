@@ -11,3 +11,4 @@
 
 - [Auszüge aus dem Material "Auf festen Grund gebaut"](https://studythebible.github.io/potpourri/auf-festen-grund-gebaut.html): Welches ist die klarste, einfachste und dennoch verständlichste Methode Gottes Wort zu lehren, um Menschen auf das Evangelium und Gottes Weg der Erlösung vorzubereiten?
 - [Die Ziele der Gemeinde](https://studythebible.github.io/potpourri/die-ziele-der-gemeinde.html)
+- [Das Lamm](https://studythebible.github.io/potpourri/das-lamm.html): Auszug aus dem Buch “The Mind of Christ” (Die Gedanken Christi) von Dennis F. Kinlaw
